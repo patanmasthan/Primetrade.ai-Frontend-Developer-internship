@@ -48,6 +48,3 @@ This project is built with:
 
 Simply open [Vercel](https://primetrade-ai-frontend-developer-in.vercel.app/) and Click on Deploy -> Publish.
 
-
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
